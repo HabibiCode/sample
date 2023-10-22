@@ -1,0 +1,10 @@
+div{
+    background-color: brown;
+    width: 50px;
+    display: inline-block;
+}
+span{
+    background-color: blue;
+    /* 
+    cannot apply width to span */
+}

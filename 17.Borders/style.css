@@ -1,0 +1,14 @@
+h1{
+    border-style:groove ;
+    border-radius: 15px;
+    border-color: blueviolet;
+}
+
+p{
+    border-top: 2px solid rgb(217, 89, 240);
+    border-bottom: 2px solid burlywood;
+    border-left: 3px dotted orangered;
+    border-right: 3px dotted rgb(26, 227, 223);
+
+    
+}

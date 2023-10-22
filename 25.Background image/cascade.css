@@ -1,0 +1,11 @@
+body{
+    background-image: url(pexels-pixabay-417344.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#ven{
+    text-align: center;
+    
+}

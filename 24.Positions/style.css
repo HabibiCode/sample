@@ -1,0 +1,19 @@
+#Box1{
+width: 200px;
+height: 200px;
+background-color: rgb(2, 79, 79);
+position: relative;
+/* top: 100px;
+left: 100px; */
+/* position: fixed;
+left: 0px;
+bottom: 0px; */
+}
+#Box2{
+width:100px;
+height: 100px;
+background-color: rgb(236, 188, 13);
+position: absolute;
+top:50px;
+left: 50px;
+}

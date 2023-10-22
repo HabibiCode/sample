@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+.box{
+    width: 250px;
+ height: 250px;
+ border: 5px solid;
+ font-size: 13em;
+ text-align: center;
+ transform: translateX(100px) rotate(45deg) scale(0.75);
+}
+#box1{
+
+ background-color: burlywood;
+}
+#box2{
+
+ background-color: rgb(218, 27, 170);
+}
+#box3{
+
+ background-color: rgb(7, 195, 36);
+}
+ /* transform: translate(90%,90%);
+ transform: rotate(45deg);
+ transform: skew(45deg); */
+

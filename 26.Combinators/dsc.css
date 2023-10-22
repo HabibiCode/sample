@@ -1,0 +1,15 @@
+#container{
+    border: 3px solid;
+}
+/* #container p{ 
+    background-color: chartreuse;
+} */
+/* #container > p{
+    background-color: chartreuse;
+} */
+#container ~ p{
+    background-color: chartreuse;
+}
+/* #container + p{
+    background-color: chartreuse;
+} */

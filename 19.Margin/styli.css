@@ -1,0 +1,21 @@
+body{
+     margin: 15px;
+}
+.box{
+    border:5px solid ;
+    font-size: 5em;
+    width: 250px;
+    height: 250px;
+}
+#box1{
+    background-color: cadetblue;
+    /* margin-bottom: 50px;
+    margin-top: 20px;
+    margin-left: 40px; */
+    margin: 20px;
+    /* Applies to all side */
+} 
+#box2{
+    background-color: chocolate;
+    margin-right: auto;
+}
